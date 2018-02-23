@@ -1,1 +1,1 @@
-# Indecision-App
+# Fizzbuzz Solution
